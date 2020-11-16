@@ -38,10 +38,14 @@ table{
 	width:60%;
 	border:1px solid black;
 }
+table td{
+	border:1px solid black;
+}
 .nendo{
 	background:black;
 	color:white;
 	text-align:center;
+	border:1px solod white;
 }
 .sell{
 	text-align:center;
